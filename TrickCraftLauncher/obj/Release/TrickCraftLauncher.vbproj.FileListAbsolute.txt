@@ -1,0 +1,12 @@
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Release\TrickCraftLauncher.exe.config
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Release\TrickCraftLauncher.exe
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Release\TrickCraftLauncher.pdb
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Release\TrickCraftLauncher.xml
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.Form1.resources
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.Resources.resources
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.SplashScreen1.resources
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.vbproj.GenerateResource.Cache
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.exe
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.xml
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.pdb
+C:\Users\Facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Release\TrickCraftLauncher.vbprojResolveAssemblyReference.cache

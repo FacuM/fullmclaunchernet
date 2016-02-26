@@ -1,0 +1,10 @@
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Debug\TrickCraftLauncher.exe.config
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Debug\TrickCraftLauncher.exe
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Debug\TrickCraftLauncher.pdb
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\bin\Debug\TrickCraftLauncher.xml
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.Resources.resources
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.vbproj.GenerateResource.Cache
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.exe
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.xml
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.pdb
+c:\users\facu\documents\visual studio 2013\Projects\TrickCraftLauncher\TrickCraftLauncher\obj\Debug\TrickCraftLauncher.Form1.resources
